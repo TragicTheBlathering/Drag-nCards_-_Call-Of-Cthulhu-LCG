@@ -1,0 +1,22 @@
+{
+    "faceProperties": {
+        "cycle" 			  : {"type": "string", "default": ""},
+		"pack"  			  : {"type": "string", "default": ""},
+        "deckbuilderQuantity" : {"type": "integer", "default": 3},
+        "unique" 			  : {"type": "boolean", "default": false},
+        "faction" 			  : {"type": "string", "default": ""},
+		"type" 				  : {"type": "string", "default": ""},
+		"subType" 			  : {"type": "string", "default": ""},
+        "unique" 			  : {"type": "boolean", "default": false},
+        "keywords" 			  : {"type": "string", "default": ""},
+		"toughness" 		  : {"type": "integer", "default": null},
+        "cost" 				  : {"type": "integer", "default": null},
+        "terror" 			  : {"type": "integer", "default": null},
+		"combat" 			  : {"type": "integer", "default": null},
+		"arcane"        	  : {"type": "integer", "default": null},
+		"investigation" 	  : {"type": "integer", "default": null},
+		"skill" 			  : {"type": "integer", "default": null},
+        "speed" 			  : {"type": "string", "default": ""},
+        "text" 				  : {"type": "string", "default": null}
+    }
+}
