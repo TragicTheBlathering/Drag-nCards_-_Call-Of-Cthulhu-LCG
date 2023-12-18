@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" src="https://i.imgur.com/INgewtQ.jpg" alt="Call of Cthulhu : The Card Game">
+<img width="600" src="https://i.imgur.com/INgewtQ.jpg" alt="Call of Cthulhu : The Card Game">
 <h1 align="center">Call of Cthulhu : The Card Game (Tragic Edition)</h1>
 <h2 align="center">- a Drag'n'Card's Mod -</h2>
 </p>
