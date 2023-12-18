@@ -15,7 +15,7 @@ Have Fun and ROLL HIGH<br>
 
 <p align="center">
 <a href="https://dragncards.com/lobby">
-  <img width="150" src="https://i.imgur.com/9NLqBPh.png" alt="Call of Cthulhu : The Card Game">
+  <img width="200" src="https://i.imgur.com/9NLqBPh.png" alt="Call of Cthulhu : The Card Game">
 </a>
 <h2 align="center">Drag'n'Cards</h1>
 </p>
