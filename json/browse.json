@@ -1,7 +1,7 @@
 {
     "browse": {
         "filterPropertySideA": "type",
-        "filterValuesSideA": ["Ally", "Attachment", "Event", "Enemy", "Location", "Treachery"],
-        "textPropertiesSideA": ["name", "traits", "text", 1] 
+        "filterValuesSideA": ["Character", "Support", "Event", "Investigator", "Government", "Sorcerer", "Attachment", "Weapon", "Vehicle"],
+        "textPropertiesSideA": ["name", "keywords", "text", 1] 
     }
 }
