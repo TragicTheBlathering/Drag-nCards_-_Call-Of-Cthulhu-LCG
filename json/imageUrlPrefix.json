@@ -1,6 +1,8 @@
 {
     "imageUrlPrefix": {
-        "Default": "https://drive.google.com/uc?",
-        "English": "https://drive.google.com/uc?"
+        "Default": "https://dragncards-lotrlcg.s3.amazonaws.com/cards/English/",
+        "English": "https://dragncards-lotrlcg.s3.amazonaws.com/cards/English/",
+        "French": "https://dragncards-lotrlcg.s3.amazonaws.com/cards/French/",
+        "Spanish": "https://dragncards-lotrlcg.s3.amazonaws.com/cards/Spanish/"
     }
 }

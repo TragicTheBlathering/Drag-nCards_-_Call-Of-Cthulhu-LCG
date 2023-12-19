@@ -1,0 +1,28 @@
+{
+    "playerProperties": {
+        "domains": {
+            "label": "id:domainCount",
+            "type": "integer", 
+            "default": 3,
+            "min": 3
+        },
+        "storiesWon": {
+            "label": "id:storiesWon",
+            "type": "integer", 
+            "default": 0, 
+            "min": 0
+        },
+        "cardsDrawn": {
+            "label": "id:cardsDrawn",
+            "type": "integer",
+            "default": 2,
+            "min": 0,
+            "showInSettings": true
+        },
+        "refreshed": {
+            "label": "id:refreshed",
+            "type": "boolean", 
+            "default": true
+        }
+    }
+}

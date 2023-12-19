@@ -1,7 +1,8 @@
 {
-    "pluginName": "Call of Cthulhu : The Living Card Gamne",
-    "tutorialUrl": "https://www.youtube.com/watch?v=cVFMm1_wpZc",
-    "minPlayers": 2,
-    "maxPlayers": 2,
-    "backgroundUrl": "https://drive.google.com/uc?export=download&id=1CqqbCclj8MNCB8Us3QDomIUxmBW4kPmM"
+    "pluginName": "LotR Living Card Game",
+    "tutorialUrl": "https://www.youtube.com/watch?v=mshb1EDsnB8&list=PLuyP-hlzlHjd-XADfU-kqJaGpSE9RWHRa&index=1",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "firstPlayerImageUrl": "https://dragncards-lotrlcg.s3.amazonaws.com/tokens/firstplayer.png",
+    "backgroundUrl": "https://i.imgur.com/sHn4yAA.jpg"
 }

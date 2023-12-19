@@ -1,0 +1,6 @@
+{
+    "imageUrlPrefix": {
+        "Default": "https://drive.google.com/uc?",
+        "English": "https://drive.google.com/uc?"
+    }
+}
