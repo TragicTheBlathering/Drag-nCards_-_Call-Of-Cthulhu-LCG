@@ -3,8 +3,8 @@
         "Character":    {"width": 0.72, "height": 1.0, "tokens": ["wound", "investigation"]},
         "Attachment":   {"width": 0.72, "height": 1.0, "tokens": ["wound", "investigation"]},
         "Support":      {"width": 0.72, "height": 1.0, "tokens": ["wound", "investigation"]},
-        "Conspiracy":   {"width": 0.72, "height": 1.0, "tokens": ["wound", "investigation"]},
         "Event":        {"width": 0.72, "height": 1.0, "tokens": ["wound", "investigation"]},
+        "Conspiracy":   {"width": 1.42, "height": 1.0, "tokens": ["investigation"]},
         "Story":        {"width": 1.0, "height": 0.72, "tokens": ["investigation"]}
     }
 }

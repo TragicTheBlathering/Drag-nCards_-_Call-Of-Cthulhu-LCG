@@ -1,13 +1,13 @@
 {
     "playerProperties": {
-        "domains": {
-            "label": "id:domainCount",
+        "willpower": {
+            "label": "id:questingWillpower",
             "type": "integer", 
-            "default": 3,
-            "min": 3
+            "default": 0,
+            "min": 0
         },
-        "storiesWon": {
-            "label": "id:storiesWon",
+        "threat": {
+            "label": "id:threat",
             "type": "integer", 
             "default": 0, 
             "min": 0
@@ -15,7 +15,7 @@
         "cardsDrawn": {
             "label": "id:cardsDrawn",
             "type": "integer",
-            "default": 2,
+            "default": 1,
             "min": 0,
             "showInSettings": true
         },
