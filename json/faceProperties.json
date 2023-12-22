@@ -7,8 +7,6 @@
         "faction" 			  : {"type": "string", "default": ""},
 		"type" 				  : {"type": "string", "default": ""},
 		"subType" 			  : {"type": "string", "default": ""},
-        "unique" 			  : {"type": "boolean", "default": false},
-        "keywords" 			  : {"type": "string", "default": ""},
 		"toughness" 		  : {"type": "integer", "default": null},
         "cost" 				  : {"type": "integer", "default": null},
         "terror" 			  : {"type": "integer", "default": null},

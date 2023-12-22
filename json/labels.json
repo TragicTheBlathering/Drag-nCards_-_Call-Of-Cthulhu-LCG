@@ -30,8 +30,19 @@
         "player1inPlay": {"English": "Player1in Play"},
         "myDeck": {"English": "My Deck"},
         "myPlayArea": {"English": "My Play Area"},
-        "subType": {"English": "Sub Type"},
+        "name": {"English": "Name"},
         "type": {"English": "Type"},
-        "name": {"English": "Name"}
+        "subType": {"English": "Sub Type"},
+        "faction": {"English": "Faction"},
+        "text": {"English": "Text"},
+        "cost": {"English": "Cost"},
+        "terror": {"English": "Terror"},
+        "combat": {"English": "Combat"},
+        "arcane": {"English": "Arcane"},
+        "investigation": {"English": "Investigation"},
+        "skill": {"English": "Skill"},
+        "unique": {"English": "Unique"},
+        "transient": {"English": "Transient"},
+        "steadfast": {"English": "Steadfast"}
     }
 }

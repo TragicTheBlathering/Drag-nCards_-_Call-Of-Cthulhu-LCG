@@ -4,7 +4,18 @@
         "columns": [
             {"propName": "name", "label": "id:name"},
             {"propName": "type", "label": "id:type"},
-            {"propName": "subType", "label": "id:subType"}
+            {"propName": "subType", "label": "id:subType"},
+            {"propName": "faction", "label": "id:faction"},
+            {"propName": "text", "label": "id:text"},
+            {"propName": "cost", "label": "id:cost"},
+            {"propName": "terror", "label": "id:terror"},
+            {"propName": "combat", "label": "id:combat"},
+            {"propName": "arcane", "label": "id:arcane"},
+            {"propName": "investigation", "label": "id:investigation"},
+            {"propName": "skill", "label": "id:skill"},
+            {"propName": "unique", "label": "id:unique"},
+            {"propName": "transient", "label": "id:transient"},
+            {"propName": "steadfast", "label": "id:steadfast"}
         ],
         "spawnGroups": [
             {"loadGroupId": "playerNinPlay", "label": "id:myPlayArea"},
