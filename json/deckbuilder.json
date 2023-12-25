@@ -3,8 +3,7 @@
         "addButtons": [1,2,3],
         "columns": [
             {"propName": "name", "label": "id:name"},
-            {"propName": "type", "label": "id:type"},
-            {"propName": "subType", "label": "id:subType"},
+            {"propName": "types", "label": "id:types"},
             {"propName": "faction", "label": "id:faction"},
             {"propName": "text", "label": "id:text"},
             {"propName": "cost", "label": "id:cost"},
