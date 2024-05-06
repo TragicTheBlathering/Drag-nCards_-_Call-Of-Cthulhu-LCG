@@ -1,7 +1,7 @@
 {
     "cardBacks": {
-        "player": {"width": 0.72, "height": 1.0, "imageUrl": "https://drive.google.com/uc?export=download&id=1jzDOqw8c_3UsMxbwZhaT05AyqND3Bbzu"},
-        "character": {"width": 0.72, "height": 1.0, "imageUrl": "https://drive.google.com/uc?export=download&id=1jzDOqw8c_3UsMxbwZhaT05AyqND3Bbzu"},
-		"story": {"width": 1.0, "height": 0.72	, "imageUrl": "https://drive.google.com/uc?export=download&id=164KfmoZ1W_4MNDfP-XcQIyqVfnyxoVuI"}
+        "player": {"width": 0.72, "height": 1.0, "imageUrl": "https://raw.githubusercontent.com/TragicTheBlathering/Drag-nCards_-_Call-Of-Cthulhu-LCG/main/_Cards/00_-_Backs/PlayerBack01.jpg"},
+        "character": {"width": 0.72, "height": 1.0, "imageUrl": "https://raw.githubusercontent.com/TragicTheBlathering/Drag-nCards_-_Call-Of-Cthulhu-LCG/main/_Cards/00_-_Backs/PlayerBack01.jpg"},
+		"story": {"width": 1.0, "height": 0.72	, "imageUrl": "https://raw.githubusercontent.com/TragicTheBlathering/Drag-nCards_-_Call-Of-Cthulhu-LCG/main/_Cards/00_-_Backs/StoryBack.jpg"}
     }
 }

@@ -1,6 +1,6 @@
 {
     "imageUrlPrefix": {
-        "Default": "https://drive.google.com/uc?",
-        "English": "https://drive.google.com/uc?"
+        "Default": "https://raw.githubusercontent.com/TragicTheBlathering/Drag-nCards_-_Call-Of-Cthulhu-LCG/main/_Cards/",
+        "English": "https://raw.githubusercontent.com/TragicTheBlathering/Drag-nCards_-_Call-Of-Cthulhu-LCG/main/_Cards/"
     }
 }

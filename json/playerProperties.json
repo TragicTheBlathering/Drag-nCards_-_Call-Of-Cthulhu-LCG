@@ -16,8 +16,7 @@
             "label": "id:cardsDrawn",
             "type": "integer",
             "default": 2,
-            "min": 0,
-            "showInSettings": true
+            "min": 0
         },
         "refreshed": {
             "label": "id:refreshed",
