@@ -43,6 +43,7 @@
         "skill": {"English": "Skill"},
         "unique": {"English": "Unique"},
         "transient": {"English": "Transient"},
-        "steadfast": {"English": "Steadfast"}
+        "steadfast": {"English": "Steadfast"},
+		"cardNumber": {"English": "cardNumber"}
     }
 }

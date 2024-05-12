@@ -14,7 +14,8 @@
             {"propName": "skill", "label": "id:skill"},
             {"propName": "unique", "label": "id:unique"},
             {"propName": "transient", "label": "id:transient"},
-            {"propName": "steadfast", "label": "id:steadfast"}
+            {"propName": "steadfast", "label": "id:steadfast"},
+			{"propName": "cardNumber", "label": "id:cardNumber"}
         ],
         "spawnGroups": [
             {"loadGroupId": "playerNinPlay", "label": "id:myPlayArea"},

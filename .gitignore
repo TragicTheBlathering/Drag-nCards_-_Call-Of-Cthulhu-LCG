@@ -3,3 +3,4 @@ gitPush.bat
 *.ids
 _LoTR-Demo/
 backup/
+_tmp/
