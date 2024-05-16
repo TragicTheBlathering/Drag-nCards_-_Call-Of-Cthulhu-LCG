@@ -3,9 +3,9 @@
         "addButtons": [1,2,3],
         "columns": [
             {"propName": "name", "label": "id:name"},
+			{"propName": "type", "label": "id:type"},
             {"propName": "types", "label": "id:types"},
             {"propName": "faction", "label": "id:faction"},
-            {"propName": "text", "label": "id:text"},
             {"propName": "cost", "label": "id:cost"},
             {"propName": "terror", "label": "id:terror"},
             {"propName": "combat", "label": "id:combat"},
@@ -15,7 +15,8 @@
             {"propName": "unique", "label": "id:unique"},
             {"propName": "transient", "label": "id:transient"},
             {"propName": "steadfast", "label": "id:steadfast"},
-			{"propName": "cardNumber", "label": "id:cardNumber"}
+			{"propName": "cardNumber", "label": "id:cardNumber"},
+			{"propName": "text", "label": "id:text"}
         ],
         "spawnGroups": [
             {"loadGroupId": "playerNinPlay", "label": "id:myPlayArea"},
