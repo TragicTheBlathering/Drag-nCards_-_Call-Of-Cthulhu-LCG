@@ -44,6 +44,12 @@
         "unique": {"English": "Unique"},
         "transient": {"English": "Transient"},
         "steadfast": {"English": "Steadfast"},
-		"cardNumber": {"English": "cardNumber"}
+		"cardNumber": {"English": "cardNumber"},
+        "player2PlayArea": {"English": "Player2 Play Area"},
+        "player1PlayArea": {"English": "Player1 Play Area"},
+        "sharedPlayArea": {"English": "Shared Play Area"},
+        "storyDiscard": {"English": "Story Discard"},
+        "sharedStoryDiscard": {"English": "Shared Story Discard"},
+        "storyDeck": {"English": "Story Deck"}
     }
 }

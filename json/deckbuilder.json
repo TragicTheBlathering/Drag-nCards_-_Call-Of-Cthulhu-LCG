@@ -19,12 +19,8 @@
 			{"propName": "text", "label": "id:text"}
         ],
         "spawnGroups": [
-            {"loadGroupId": "playerNinPlay", "label": "id:myPlayArea"},
+            {"loadGroupId": "playerNPlayArea", "label": "id:myPlayArea"},
             {"loadGroupId": "playerNDeck", "label": "id:myDeck"},
-            {"loadGroupId": "player1inPlay", "label": "id:player1inPlay"},
-            {"loadGroupId": "player1Deck", "label": "id:player1Deck"},
-            {"loadGroupId": "player2inPlay", "label": "id:player2inPlay"},
-            {"loadGroupId": "player2Deck", "label": "id:player2Deck"},
             {"loadGroupId": "sharedStoryDeck", "label": "id:sharedStoryDeck"}
         ]
     }

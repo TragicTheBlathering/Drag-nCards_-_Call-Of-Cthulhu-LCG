@@ -1,79 +1,101 @@
 {
     "groups": {
-        "topPlayerPlayArea": {
-            "label": "Table",
-            "tableLabel": "",
-            "onCardEnter": {}
+        "sharedStoryDeck": {
+            "groupType": "deck",
+            "label": "id:sharedStoryDeck",
+            "tableLabel": "id:storyDeck",
+            "onCardEnter": {
+                "controller": "shared",
+                "deckGroupId": "sharedStoryDeck",
+                "discardGroupId": "sharedStoryDiscard"
+            }
         },
-        "sharedPlayerArea": {
-            "label": "Table",
-            "tableLabel": "",
-            "onCardEnter": {}
-        },
-        "botPlayerPlayArea": {
+        "sharedStoryDiscard": {
             "groupType": "discard",
-            "label": "Table",
+            "label": "id:sharedStoryDiscard",
+            "tableLabel": "id:storyDiscard",
+            "onCardEnter": {
+                "controller": "shared",
+                "deckGroupId": "sharedStoryDeck",
+                "discardGroupId": "sharedStoryDiscard"
+            }
+        },
+        "sharedPlayArea": {
+            "groupType": "inPlay",
+            "label": "id:sharedPlayArea",
             "tableLabel": "",
             "onCardEnter": {}
         },
-        "botPlayerHand": {
+        "player1Hand": {
             "groupType": "hand",
-            "label": "id:botPlayerHand",
+            "label": "id:player1Hand",
             "tableLabel": "id:hand",
             "onCardEnter": {
-                "controller": "botPlayer",
-                "deckGroupId": "botPlayerDeck",
-                "discardGroupId": "botPlayerDiscard"
+                "controller": "player1",
+                "deckGroupId": "player1Deck",
+                "discardGroupId": "player1Discard"
             }
         },
-        "botPlayerDeck": {
+        "player1PlayArea": {
+            "groupType": "inPlay",
+            "label": "id:player1PlayArea",
+            "tableLabel": "",
+            "onCardEnter": {}
+        },
+        "player1Deck": {
             "groupType": "deck",
-            "label": "id:botPlayerDeck",
+            "label": "id:player1Deck",
             "tableLabel": "id:deck",
             "onCardEnter": {
-                "controller": "botPlayer",
-                "deckGroupId": "botPlayerDeck",
-                "discardGroupId": "botPlayerDiscard"
+                "controller": "player1",
+                "deckGroupId": "player1Deck",
+                "discardGroupId": "player1Discard"
             }
         },
-        "botPlayerDiscard": {
+        "player1Discard": {
             "groupType": "discard",
-            "label": "id:botPlayerDiscard",
+            "label": "id:player1Discard",
             "tableLabel": "id:discard",
             "onCardEnter": {
-                "controller": "botPlayer",
-                "deckGroupId": "botPlayerDeck",
-                "discardGroupId": "botPlayerDiscard"
+                "controller": "player1",
+                "deckGroupId": "player1Deck",
+                "discardGroupId": "player1Discard"
             }
         },
-		"topPlayerHand": {
+        "player2PlayArea": {
+            "groupType": "inPlay",
+            "label": "id:player2PlayArea",
+            "tableLabel": "",
+            "onCardEnter": {}
+        },
+        "player2Hand": {
             "groupType": "hand",
-            "label": "id:topPlayerHand",
+            "label": "id:player2Hand",
             "tableLabel": "id:hand",
             "onCardEnter": {
-                "controller": "topPlayer",
-                "deckGroupId": "topPlayerDeck",
-                "discardGroupId": "topPlayerDiscard"
+                "controller": "player2",
+                "deckGroupId": "player2Deck",
+                "discardGroupId": "player2Discard"
             }
         },
-        "topPlayerDeck": {
+        "player2Deck": {
             "groupType": "deck",
-            "label": "id:topPlayerDeck",
+            "label": "id:player2Deck",
             "tableLabel": "id:deck",
             "onCardEnter": {
-                "controller": "topPlayer",
-                "deckGroupId": "topPlayerDeck",
-                "discardGroupId": "topPlayerDiscard"
+                "controller": "player2",
+                "deckGroupId": "player2Deck",
+                "discardGroupId": "player2Discard"
             }
         },
-        "topPlayerDiscard": {
+        "player2Discard": {
             "groupType": "discard",
-            "label": "id:topPlayerDiscard",
+            "label": "id:player2Discard",
             "tableLabel": "id:discard",
             "onCardEnter": {
-                "controller": "topPlayer",
-                "deckGroupId": "topPlayerDeck",
-                "discardGroupId": "topPlayerDiscard"
+                "controller": "player2",
+                "deckGroupId": "player2Deck",
+                "discardGroupId": "player2Discard"
             }
         }
      }

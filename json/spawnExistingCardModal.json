@@ -1,6 +1,6 @@
 {
     "spawnExistingCardModal": {
         "columnProperties": ["name", "packName"],
-        "loadGroupIds": ["player1inPlay","player2inPlay"]
+        "loadGroupIds": ["player1PlayArea","player2PlayArea"]
     }
 }
